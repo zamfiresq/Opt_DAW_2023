@@ -12,10 +12,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ClasaCSharp">
-            <Node name="ClasaCSharp">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="ClasaCSharp" expanded="True">
+            <Node name="ClasaCSharp" expanded="True" />
           </Node>
         </State>
       </Pad>
